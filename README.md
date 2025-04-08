@@ -19,7 +19,7 @@ A simple **Recipe Book** web app that lets users search and view recipes dynamic
 3. View the recipe details instantly!  
 
 ## **Demo Video**
-[Watch the Demo Video](https://youtu.be/EyD6oyYgqLk)
+[Watch the Demo Video](https://youtu.be/yN6cW6KFQxY)
 
 ## **Screenshots**
 [Recipe book App UI](./Assests/Screenshot.jpg)
