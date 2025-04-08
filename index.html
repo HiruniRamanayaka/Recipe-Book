@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Book</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Book</h1>
+        <input type="text" id="search" placeholder="Search for a recipe...">
+        <button id="search-btn">Search</button>
+
+        <label for="category-select">Filter by category:</label>
+        <select id="category-select">
+            <option value="">All Categories</option>
+        </select>
+
+        <div id="recipe-container"></div>
+    </div>
+
+    <!-- Full Recipe Modal -->
+    <div class="full-overlay" id="overlay" style="display: none;"></div>
+    <div class="full-recipe" id="full-recipe" style="display: none;"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
