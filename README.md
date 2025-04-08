@@ -22,4 +22,4 @@ A simple **Recipe Book** web app that lets users search and view recipes dynamic
 [Watch the Demo Video](https://youtu.be/EyD6oyYgqLk)
 
 ## **Screenshots**
-[Todo App UI](./assests/Screenshot.jpg)
+[Recipe book App UI](./Assests/Screenshot.jpg)
